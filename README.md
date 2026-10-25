@@ -1,5 +1,7 @@
 # Quadra Matrix A.I. - Exponential Training System
 
+> **License: None — Proprietary. © 2026 Axiom Zeta Innovations LLC. All rights reserved.** This repository is source-visible only. No license is granted to copy, modify, distribute, or use this software; viewing this code grants no rights. All content is the property of Axiom Zeta Innovations LLC.
+
 ## Overview
 
 This project implements a revolutionary AI architecture that combines **spiking neural networks**, **symbolic reasoning**, **neuroplasticity**, and **quantum-inspired field dynamics** to achieve exponentially faster training than traditional approaches.
@@ -199,7 +201,7 @@ After training:
 
 ## License
 
-MIT License - See LICENSE file for details
+None. This software is proprietary — © 2026 Axiom Zeta Innovations LLC, all rights reserved. No license is granted to copy, modify, distribute, or use it.
 
 ## Contact
 
