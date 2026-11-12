@@ -208,6 +208,10 @@ class BenchmarkSuite:
 
 def benchmark_model_inference(model, sample_input, iterations: int = 100):
     """Benchmark model inference time"""
+    # Local import: torch is only needed by this benchmark; importing it at
+    # module level would make the whole module unimportable without torch,
+    # including for the non-model benchmarks below.
+    import torch
     suite = BenchmarkSuite('Model Inference')
     
     def inference():
