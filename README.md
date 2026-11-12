@@ -201,7 +201,7 @@ After training:
 
 ## License
 
-None. This software is proprietary — © 2026 Axiom Zeta Innovations LLC, all rights reserved. No license is granted to copy, modify, distribute, or use it.
+GNU AGPL-3.0. This software is free software under the GNU Affero General Public License v3.0 — © 2026 Axiom Zeta Innovations LLC. See the LICENSE file for the full text.
 
 ## Contact
 
